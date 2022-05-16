@@ -8,10 +8,9 @@
     text-decoration: none;
 }
 
-body {
+ .body {
     height: 100vh;
-    background-image: url("./fundo4.jpg");
-    background-position: center;
+    background-image: linear-gradient(to right, #9e5353, #f7f7f7);
 }
 
 .cabecalho {
